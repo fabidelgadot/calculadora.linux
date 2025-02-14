@@ -1,0 +1,8 @@
+# Alterar permissões para tornar o arquivo executável
+chmod +x calculadora.sh
+
+# Definir as permissões
+chmod 744 calculadora.sh
+
+# Executar o script
+./calculadora.sh
