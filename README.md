@@ -1,5 +1,5 @@
 # Calculadora Simples
-Este repositório contém um script Shell (`calculadora.sh`) e um Python (`calcula_py`) que executa uma calculadora simples via linha de comando, permitindo ao usuário realizar operações matemáticas básicas (soma, subtração, multiplicação e divisão).
+Este repositório contém um script Shell (`calculadora.sh`) e um Python (`calculadora_py`) que executa uma calculadora simples via linha de comando, permitindo ao usuário realizar operações matemáticas básicas (soma, subtração, multiplicação e divisão).
 
 O script solicita ao usuário dois números e uma operação desejada (+, -, *, /). Com base na operação escolhida, a operação é processada pelo "case" e exibe o resultado. Caso uma operação inválida seja informada pelo usuário, o script exibe uma mensagem de erro ("Operação Inválida!") e encerra a execução.
 
