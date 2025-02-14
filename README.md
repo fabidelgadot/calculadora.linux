@@ -9,6 +9,11 @@ O script solicita ao usuário dois números e uma operação desejada (+, -, *, 
    ```bash
    chmod +x calculadora.sh
    ```
+# Alterar permissões para tornar o arquivo executável
+chmod +x calculadora.sh
+
+# Definir as permissões
+chmod 744 calculadora.sh
 
 2. Execute o script no terminal com:
    ```bash
